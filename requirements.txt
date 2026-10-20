@@ -1,0 +1,10 @@
+# Direct Python dependencies used by the notebook.
+# Versions intentionally unpinned: the original notebook did not record a tested lockfile.
+# Create a reproducible lockfile after testing in a fresh environment.
+earthengine-api
+geemap
+numpy
+pandas
+scipy
+matplotlib
+jupyterlab
